@@ -823,7 +823,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGQyZDM2ZmQtYTMwNC0zMTc5LTgzMzItZmYwNDliMDhhZmZl
 #EXTVLCOPT:http-user-agent=WeChatMusic 621216514(android 7.0)
 #EXTINF:-1 group-title="EDUKASI" tvg-logo = "https://www.dropbox.com/s/q3n1brg0lw9mbn7/hbo%201.jpg?dl=1", Asian Food Network
-http://shareext@urtv.cc:80/live/114048/114048/6693.ts?shareext.ts
+https://raw.githubusercontent.com/vitoharhari/itc/main/afn.m3u
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGQyZDM2ZmQtYTMwNC0zMTc5LTgzMzItZmYwNDliMDhhZmZl
