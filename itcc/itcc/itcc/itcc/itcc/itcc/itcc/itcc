@@ -14,7 +14,7 @@ https://images.app.goo.gl/PBsnogu9nis28oWv6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGQyZDM2ZmQtYTMwNC0zMTc5LTgzMzItZmYwNDliMDhhZmZl
 #EXTVLCOPT:http-user-agent=WeChatMusic 621216514(android 7.0)
-#EXTINF:-1 group-title="A.PLAYLIST" tvg-logo = "https://www.dropbox.com/s/q3n1brg0lw9mbn7/hbo%201.jpg?dl=1", 21/04/2022 20:45
+#EXTINF:-1 group-title="A.PLAYLIST" tvg-logo = "https://www.dropbox.com/s/q3n1brg0lw9mbn7/hbo%201.jpg?dl=1", 26/04/2022 22:00
 https://images.app.goo.gl/PBsnogu9nis28oWv6
 
 
@@ -30,6 +30,12 @@ https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTVLCOPT:http-user-agent=WeChatMusic 621216514(android 7.0)
 #EXTINF:-1 group-title="NASIONAL" tvg-logo = "https://www.dropbox.com/s/q3n1brg0lw9mbn7/hbo%201.jpg?dl=1", DAAI TV
 https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Daai TV id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png" group-title="NASIONAL",Daai TV-HD
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4283
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_daaitv_big1.png?v=2.0.0.13" group-title="NASIONAL,Daai_TV_USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=54229abfcfa5649e7003b83dd4755294268ef7e5a44f541a7cbde7626ef57566
 
 #EXTINF:-1 tvg-logo="https://www.daai.tv/images/og-root.jpg" group-title="NASIONAL", DAAI TV TAIWAN
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -431,6 +437,9 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 #EXTINF:-1 group-title="FILM" tvg-logo = "https://www.dropbox.com/s/q3n1brg0lw9mbn7/hbo%201.jpg?dl=1", Celestial Movie [ALT]
 #https://m3u-editor.com/serve/ubah123/528713667.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_big.png?v=2.0.0.13" group-title="FILM",Chinese_Drama_USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/jiangsutv.png" group-title="FILM",Jiangsu TV
@@ -456,6 +465,21 @@ https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/dragontv.png" group-title="FILM",Dragon TV
 https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="[TW] 美亚电影台 MOVIE" tvg-logo="https://pic.iask.cn/fimg/341891789419.jpg" group-title="FILM",[TW]美亚电影台 
+http://iptv12k.com:35461/8022022301/468985/1869
+
+#EXTINF:-1 tvg-id="" tvg-name="[TW] 卫视电影台 MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/Star_chinese_movies_2012.png" group-title="FILM",[TW]卫视电影台 
+http://iptv12k.com:35461/8022022301/468985/1868
+
+#EXTINF:-1 tvg-id="" tvg-name="[TW] 東森洋片 MOVIE" tvg-logo="https://img.isuper.tv/live-tv/ebc-emovie-live.jpg" group-title="FILM",[TW]東森洋片 
+http://iptv12k.com:35461/8022022301/468985/1867
+
+#EXTINF:-1 tvg-id="" tvg-name="[TW] 東森电影台 MOVIE" tvg-logo="https://www.twt.com.tw/Upload_Img/_thumbs/images/news/%E6%9D%B1%E6%A3%AE%E9%9B%BB%E5%BD%B1%E5%8F%B0-LOGO%E5%B0%81%E9%9D%A2.png" group-title="FILM",[TW]東森电影台 
+http://iptv12k.com:35461/8022022301/468985/1866
+
+#EXTINF:-1 tvg-id="" tvg-name="[TW] CatchPlay電影台 MOVIE" tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/08/CATCHPLAY-Logo.jpg" group-title="FILM",[TW]CatchPlay電影台 
+http://iptv12k.com:35461/8022022301/468985/1865
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGQyZDM2ZmQtYTMwNC0zMTc5LTgzMzItZmYwNDliMDhhZmZl
 #EXTVLCOPT:http-user-agent=WeChatMusic 621216514(android 7.0)
@@ -469,7 +493,7 @@ https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #EXTINF:-1 group-title="FILM" tvg-logo = "https://www.dropbox.com/s/q3n1brg0lw9mbn7/hbo%201.jpg?dl=1", Cinemax-ASIA
-#https://m3u-editor.com/serve/ubah123/528713668.m3u8
+https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=max
 
 #EXTINF:-1 group-title="FILM" tvg-logo = "https://www.dropbox.com/s/q3n1brg0lw9mbn7/hbo%201.jpg?dl=1", Cinemax-ASIA-ID
 #https://m3u-editor.com/serve/ubah123/528713669.m3u8
@@ -492,8 +516,8 @@ https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGQyZDM2ZmQtYTMwNC0zMTc5LTgzMzItZmYwNDliMDhhZmZl
 #EXTVLCOPT:http-user-agent=WeChatMusic 621216514(android 7.0)
-#EXTINF:-1 group-title="FILM" tvg-logo = "https://www.dropbox.com/s/q3n1brg0lw9mbn7/hbo%201.jpg?dl=1", HBO-ASIA-FHD
-#https://m3u-editor.com/serve/ubah123/528713682.m3u8
+#EXTINF:-1 group-title="FILM" tvg-logo = "https://www.dropbox.com/s/q3n1brg0lw9mbn7/hbo%201.jpg?dl=1", HBO-ASIA
+https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -517,8 +541,8 @@ https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGQyZDM2ZmQtYTMwNC0zMTc5LTgzMzItZmYwNDliMDhhZmZl
 #EXTVLCOPT:http-user-agent=WeChatMusic 621216514(android 7.0)
-#EXTINF:-1 group-title="FILM" tvg-logo = "https://www.dropbox.com/s/q3n1brg0lw9mbn7/hbo%201.jpg?dl=1", HBO-FAMILY-ASIA-FHD
-#https://m3u-editor.com/serve/ubah123/528713679.m3u8
+#EXTINF:-1 group-title="FILM" tvg-logo = "https://www.dropbox.com/s/q3n1brg0lw9mbn7/hbo%201.jpg?dl=1", HBO-FAMILY-ASIA
+https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=fam
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGQyZDM2ZmQtYTMwNC0zMTc5LTgzMzItZmYwNDliMDhhZmZl
@@ -541,8 +565,8 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGQyZDM2ZmQtYTMwNC0zMTc5LTgzMzItZmYwNDliMDhhZmZl
 #EXTVLCOPT:http-user-agent=WeChatMusic 621216514(android 7.0)
-#EXTINF:-1 group-title="FILM" tvg-logo = "https://www.dropbox.com/s/q3n1brg0lw9mbn7/hbo%201.jpg?dl=1", HBO-HITS-ASIA-FHD
-#https://m3u-editor.com/serve/ubah123/528713684.m3u8
+#EXTINF:-1 group-title="FILM" tvg-logo = "https://www.dropbox.com/s/q3n1brg0lw9mbn7/hbo%201.jpg?dl=1", HBO-HITS-ASIA
+https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hits
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGQyZDM2ZmQtYTMwNC0zMTc5LTgzMzItZmYwNDliMDhhZmZl
@@ -565,8 +589,8 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGQyZDM2ZmQtYTMwNC0zMTc5LTgzMzItZmYwNDliMDhhZmZl
 #EXTVLCOPT:http-user-agent=WeChatMusic 621216514(android 7.0)
-#EXTINF:-1 group-title="FILM" tvg-logo = "https://www.dropbox.com/s/q3n1brg0lw9mbn7/hbo%201.jpg?dl=1", HBO-Signature-FHD
-#https://m3u-editor.com/serve/ubah123/528713688.m3u8
+#EXTINF:-1 group-title="FILM" tvg-logo = "https://www.dropbox.com/s/q3n1brg0lw9mbn7/hbo%201.jpg?dl=1", HBO-Signature-ASIA
+https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGQyZDM2ZmQtYTMwNC0zMTc5LTgzMzItZmYwNDliMDhhZmZl
@@ -683,6 +707,12 @@ https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTINF:-1 group-title="FILM" tvg-logo = "https://www.dropbox.com/s/q3n1brg0lw9mbn7/hbo%201.jpg?dl=1", tvN Movies
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="One HD" tvg-logo="https://wikiimg.tojsiabtv.com/wikipedia/en/thumb/c/cc/One_TV_Asia_logo_%282020%29.png/200px-One_TV_Asia_logo_%282020%29.png" group-title="FILM",One HD
+http://iptv12k.com:35461/8022022301/468985/711
+
+#EXTINF:-1 tvg-id="" tvg-name="|ID| SONY ONE" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/SONYONE.png" group-title="FILM",SONY ONE
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4227
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGQyZDM2ZmQtYTMwNC0zMTc5LTgzMzItZmYwNDliMDhhZmZl
 #EXTVLCOPT:http-user-agent=WeChatMusic 621216514(android 7.0)
@@ -719,6 +749,186 @@ https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
 #EXTINF:-1  group-title="FILM",Local Now Movies of the 2020s 
 https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
 
+
+///// BEIN&FOX MOVIES /////
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="BEIN&FOX MOVIES",BEIN_MOVIES_PREMIERE HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/8606
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="BEIN&FOX MOVIES",BEIN_MOVIES_ACTION HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/8607
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="BEIN&FOX MOVIES",BEIN_MOVIES_DRAMA HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/8608
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="BEIN&FOX MOVIES",BEIN_MOVIES_FAMILY HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/8609
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="BEIN&FOX MOVIES",BEIN_SERIES_1 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/16048
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="BEIN&FOX MOVIES",BEIN_SERIES_2 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/16049
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="BEIN&FOX MOVIES",BEIN_DRAMA HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/16047
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="BEIN&FOX MOVIES",FX HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/192825
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="BEIN&FOX MOVIES",FOX HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150973
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="BEIN&FOX MOVIES",FOX_CRIME
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150972
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="BEIN&FOX MOVIES",FOX_LIFE HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150971
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="BEIN&FOX MOVIES",FOX_MOVIES HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150974
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="BEIN&FOX MOVIES",FOX_FAMILY_MOVIES HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150975
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="BEIN&FOX MOVIES",FOX_REWAYAT
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/192824
+
+
+///// ENGLISH MOVIE PREMIUM /////
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="ENGLISH MOVIE PREMIUM",Movie_premium_1
+http://f4.tvxweb.net:8082/24263/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="ENGLISH MOVIE PREMIUM",Movie_premium_2
+http://f4.tvxweb.net:8082/24264/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="ENGLISH MOVIE PREMIUM",Movie_premium_3
+http://f4.tvxweb.net:8082/24265/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="ENGLISH MOVIE PREMIUM",Movie_premium_4
+http://f4.tvxweb.net:8082/24266/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="ENGLISH MOVIE PREMIUM",Movie_premium_5
+http://f4.tvxweb.net:8082/24267/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="ENGLISH MOVIE PREMIUM",Movie_premium_6
+http://f4.tvxweb.net:8082/24268/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="ENGLISH MOVIE PREMIUM",Movie_premium_7
+http://f4.tvxweb.net:8082/24269/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="ENGLISH MOVIE PREMIUM",Movie_premium_8
+http://f4.tvxweb.net:8082/24270/index.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="ENGLISH MOVIE PREMIUM",Movie_premium_9
+http://f4.tvxweb.net:8082/24271/index.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="ENGLISH MOVIE PREMIUM",Movie_premium_10
+http://f4.tvxweb.net:8082/24272/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="ENGLISH MOVIE PREMIUM",Movie_premium_11
+http://f4.tvxweb.net:8082/24273/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="ENGLISH MOVIE PREMIUM",Movie_premium_12
+http://f4.tvxweb.net:8082/24316/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="ENGLISH MOVIE PREMIUM",Movie_premium_13
+http://f4.tvxweb.net:8082/35970/video.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="ENGLISH MOVIE PREMIUM",Movie_premium_14
+http://f4.tvxweb.net:8082/35974/video.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="ENGLISH MOVIE PREMIUM",Movie_premium_15
+http://f4.tvxweb.net:8082/35975/video.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="ENGLISH MOVIE PREMIUM",Movie_premium_16
+http://f4.tvxweb.net:8082/35976/video.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="ENGLISH MOVIE PREMIUM",Movie_premium_17
+http://f4.tvxweb.net:8082/35977/video.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="ENGLISH MOVIE PREMIUM",Movie_premium_18
+http://f4.tvxweb.net:8082/35979/video.m3u8?shareext.ts
+
+
+///// IPFOX MOVIES ARABIC /////
+
+#EXTINF:-1 tvg-id="" tvg-name="IPFox Exclusive 1" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="IPFOX MOVIES ARABIC",IPFox_Exclusive 1
+http://red.ipfox.org:8080/osama2022/osama2023/37694
+
+#EXTINF:-1 tvg-id="" tvg-name="IPFox Exclusive 2" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="IPFOX MOVIES ARABIC",IPFox_Exclusive 2
+http://red.ipfox.org:8080/osama2022/osama2023/37695
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| IPFox Movies Arabic" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10534.png" group-title="IPFOX MOVIES ARABIC",Movies-Arabic
+http://red.ipfox.org:8080/osama2022/osama2023/8
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| IPFox Movies Classic" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/11062.png" group-title="IPFOX MOVIES ARABIC",Movies_Classic
+http://red.ipfox.org:8080/osama2022/osama2023/9
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| IPFox Movies Action" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10503.png" group-title="IPFOX MOVIES ARABIC",Movies_Action
+http://red.ipfox.org:8080/osama2022/osama2023/7
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| IPFox Movies Comedy" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10529.png" group-title="IPFOX MOVIES ARABIC",Movies_Comedy
+http://red.ipfox.org:8080/osama2022/osama2023/11
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| IPFox Movies Drama" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10530.png" group-title="IPFOX MOVIES ARABIC",Movies_Drama
+http://red.ipfox.org:8080/osama2022/osama2023/12
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| IPFox Movies Horror" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10531.png" group-title="IPFOX MOVIES ARABIC",Movies_Horror
+http://red.ipfox.org:8080/osama2022/osama2023/13
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| IPFox Movies Kids" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10532.png" group-title="IPFOX MOVIES ARABIC",Movies_Kids
+http://red.ipfox.org:8080/osama2022/osama2023/14
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| IPFox Movies Thriller" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/10533.png" group-title="IPFOX MOVIES ARABIC",Movies_Thriller
+http://red.ipfox.org:8080/osama2022/osama2023/15
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| Box CLASSIC" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="IPFOX MOVIES ARABIC",Box_CLASSIC
+http://red.ipfox.org:8080/osama2022/osama2023/30471
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| Box ACTION 1" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="IPFOX MOVIES ARABIC",Box_ACTION 1
+http://red.ipfox.org:8080/osama2022/osama2023/30474
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| Box ACTION 2" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="IPFOX MOVIES ARABIC",BoxA_CTION 2
+http://red.ipfox.org:8080/osama2022/osama2023/30473
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| Box HORROR" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="IPFOX MOVIES ARABIC",Box_HORROR
+http://red.ipfox.org:8080/osama2022/osama2023/30472
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| Majestic Horror" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="IPFOX MOVIES ARABIC",|Fox| Majestic Horror
+http://red.ipfox.org:8080/osama2022/osama2023/31944
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| Majestic Action" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="IPFOX MOVIES ARABIC",Majestic_Action
+http://red.ipfox.org:8080/osama2022/osama2023/31942
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| Majestic Romance" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="IPFOX MOVIES ARABIC",Majestic_Romance
+http://red.ipfox.org:8080/osama2022/osama2023/31941
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| Majestic Arabic" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="IPFOX MOVIES ARABIC",Majestic_Arabic
+http://red.ipfox.org:8080/osama2022/osama2023/31939
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| Cinema CAM 1" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="IPFOX MOVIES ARABIC",Cinema_CAM 1
+http://red.ipfox.org:8080/osama2022/osama2023/31938
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| Cinema CAM 2" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="IPFOX MOVIES ARABIC",Cinema_CAM 2
+http://red.ipfox.org:8080/osama2022/osama2023/31937
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| Cinema Comedy" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="IPFOX MOVIES ARABIC",Cinema_Comedy
+http://red.ipfox.org:8080/osama2022/osama2023/31936
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| Shahid Sci-Fi" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="IPFOX MOVIES ARABIC",Shahid_Sci-Fi
+http://red.ipfox.org:8080/osama2022/osama2023/31935
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| Shahid Cinema" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="IPFOX MOVIES ARABIC",Shahid_Cinema
+http://red.ipfox.org:8080/osama2022/osama2023/31934
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| Shahid Cartoon" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="IPFOX MOVIES ARABIC",Shahid_Cartoon
+http://red.ipfox.org:8080/osama2022/osama2023/31933
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| Shahid Aflam 1" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="IPFOX MOVIES ARABIC",Shahid A_flam 1
+http://red.ipfox.org:8080/osama2022/osama2023/31932
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| Shahid Horror 1" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="IPFOX MOVIES ARABIC",Shahid_Horror_1
+http://red.ipfox.org:8080/osama2022/osama2023/31928
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| Shahid Horror 2" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="IPFOX MOVIES ARABIC",Shahid_Horror_2
+http://red.ipfox.org:8080/osama2022/osama2023/31927
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| Shahid Action 1" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="IPFOX MOVIES ARABIC",Shahid_Action_1
+http://red.ipfox.org:8080/osama2022/osama2023/31926
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| Shahid Action 2" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="IPFOX MOVIES ARABIC",Shahid_Action_2
+http://red.ipfox.org:8080/osama2022/osama2023/31925
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| Shahid Romance 1" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="IPFOX MOVIES ARABIC",Shahid_Romance_1
+http://red.ipfox.org:8080/osama2022/osama2023/31924
+
+#EXTINF:-1 tvg-id="" tvg-name="|Fox| Shahid Romance 2" tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="IPFOX MOVIES ARABIC",Shahid_Romance_2
+http://red.ipfox.org:8080/osama2022/osama2023/31923
 
 ///// TECH&GAMES /////
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Techstorm-logo.jpg" group-title="TECH&GAMES",TECHSTORM
@@ -823,7 +1033,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGQyZDM2ZmQtYTMwNC0zMTc5LTgzMzItZmYwNDliMDhhZmZl
 #EXTVLCOPT:http-user-agent=WeChatMusic 621216514(android 7.0)
 #EXTINF:-1 group-title="EDUKASI" tvg-logo = "https://www.dropbox.com/s/q3n1brg0lw9mbn7/hbo%201.jpg?dl=1", Asian Food Network
-https://raw.githubusercontent.com/vitoharhari/itc/main/afn.m3u
+http://shareext@urtv.cc:80/live/114048/114048/6693.ts?shareext.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGQyZDM2ZmQtYTMwNC0zMTc5LTgzMzItZmYwNDliMDhhZmZl
